@@ -8,3 +8,5 @@ env/
 output/
 *.csv
 .ipynb_checkpoints/
+output/*
+!output/.gitkeep
