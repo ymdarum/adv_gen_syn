@@ -6,7 +6,7 @@ venv/
 env/
 .DS_Store
 output/
-*.csv
 .ipynb_checkpoints/
 output/*
-!output/.gitkeep
+!.gitkeep
+
